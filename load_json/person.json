@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Pawan kumar",
+        "age":"23",
+        "height":"122",
+        "Gender":"Male",
+        "hair_color":"black"
+    },
+    {
+        "name":"kareena",
+        "age":"22",
+        "height":"152",
+        "Gender":"Female",
+        "hair_color":"brown"
+    },
+    {
+        "name":"Rohit kumar",
+        "age":"21",
+        "height":"162",
+        "Gender":"Male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Pawan sharma",
+        "age":"29",
+        "height":"129",
+        "Gender":"Male",
+        "hair_color":"assian"
+    },
+    {
+        "name":"Pawan sharma",
+        "age":"29",
+        "height":"129",
+        "Gender":"Male",
+        "hair_color":"assian"
+    }
+]
