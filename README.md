@@ -12,7 +12,7 @@ ___
 Built using:-
 * Flutter
 
-Some snaps from the app:-<br>
+Some snap from the app:-<br>
 ![Snap](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595248373/readme%20images/api%20calls%20local%20json/Screenshot_from_2020-07-20_17-59-22_w5hria.png)
 
 ## Getting Started
